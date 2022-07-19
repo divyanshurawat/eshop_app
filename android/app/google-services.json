@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584817543773",
+    "project_id": "machineyantra-4758d",
+    "storage_bucket": "machineyantra-4758d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584817543773:android:be82d442bc4918c28d9bb4",
+        "android_client_info": {
+          "package_name": "com.machineyantra.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584817543773-m0b2nu9cm9offto3n969r6d7f4gj118h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMQA8zGtP_CPyw12r-RlA7mojCGkyYR9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584817543773-m0b2nu9cm9offto3n969r6d7f4gj118h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
